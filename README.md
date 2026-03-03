@@ -1,1 +1,5 @@
-# ComputerGraphics
+I develop software based on the final result and break it down into smaller parts of code that I can test individually before worrying about the aesthetic quality. This project has allowed me to continue building good habits in terms of design so that the code remains organized and clean. I also follow a similar procedure for all of my projects (sketching out what objects I need, mapping each object to a mesh and transformation, then layering on materials, lighting and controls). The same strategies, decomposition, re-use and design for change, will be used in other projects.
+
+In terms of writing computer programs, I have developed an approach of "incremental development" where I implement a new feature, ensure it is rendering properly, and then proceed. Each step in this iterative process provided improvements to the structure, visual aspects and user interactions of the program. As I continued to develop software I transitioned from an approach of "get it working" to an approach of "get it working and make sure it is re-usable and easy to expand."
+
+The study of computer science and graphics, particularly, has increased my problem-solving abilities, math and logic skills and my ability to create interactive systems which are useful in both future courses and potential software jobs.
